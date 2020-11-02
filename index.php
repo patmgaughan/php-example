@@ -5,7 +5,7 @@
 	<title>PHP Demo</title>
 </head>
 
-<body>
+<body> 
 
 	<h1>My First PHP Page</h1>
 	<?php
